@@ -10,10 +10,10 @@ The verification for the worker is done manually by the admin.
 
 
 ![Unable to display Screenshot](https://github.com/ayush-srivastava99/INNODEV-2K19/blob/master/Screenshot%20(146).png)
-There is also a map in which people can explore their surroundings.
+Map to explore surroundings.
 
 ![Unable to display Screenshot](https://github.com/ayush-srivastava99/INNODEV-2K19/blob/master/Screenshot%20(142).png)
-Thereafter there is complete interface for the user and for the worker to carry on or cancel the booking at any time.
-Users and workers are informed about cancellation and confirmation through email.
+An interface for the user and worker to carry on or cancel the booking.
+Cancellation and confirmation information are given through the email.
 
 ![Unable to display Screenshot](https://github.com/ayush-srivastava99/INNODEV-2K19/blob/master/Screenshot%20(145).png)
