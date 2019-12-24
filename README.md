@@ -1,7 +1,5 @@
-# INNODEV-2K19
-This project was created in Avishkar 2K19.
-In this project we have made an online platform in which user moving to new towns can easily find electrician, plumber, cleaners, doctors, 
-and stylist very conveniently.The homepage of the website provided every single information about the website.
+Avishkar 2K19(Innodev 2k19)
+This online provides the basic facilities of electricians ,plumber,doctor and many more household related issues. Any facilities can be easily availed and with our review and complaint section ,costumers can even easily assist us. 
 ![Unable to display Screenshot](https://github.com/ayush-srivastava99/INNODEV-2K19/blob/master/Screenshot%20(115).png)
 
 ![Unable to display Screenshot](https://github.com/ayush-srivastava99/INNODEV-2K19/blob/master/Screenshot%20(139).png)
